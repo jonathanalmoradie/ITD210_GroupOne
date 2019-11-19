@@ -11,31 +11,6 @@ html {
     color: #f9f9f9
 }
 
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-    padding-left: 0rem;
-    padding-right: 0rem;
-    padding-bottom: .5rem;
-}
-
-blockquote.blockquote {
-    display: block;
-    text-align: center;
-    clear: left;
-    float: left;
-    width: 100%;
-    padding-left: 1rem;
-    font-size: 1rem;
-}
-
-.youTube {
-    padding-top: 0rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-bottom: 1rem;
-    float: right;
-}
 
 
 footer {
