@@ -1,0 +1,21 @@
+html {
+    background-color: #f9f9f9;
+    width: 100%;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.navbar .navbar-brand {
+    color: #f9f9f9
+}
+.navbar .navbar-nav .nav-link {
+    color: #f9f9f9
+}
+
+
+
+footer {
+    background-color: #268bd2;
+}
+ul.list-unstyled .footLink {
+    color: black;
+}
