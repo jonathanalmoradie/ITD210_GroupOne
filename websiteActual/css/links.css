@@ -1,0 +1,33 @@
+.col-md-6 {
+  margin: 0 0;
+}
+
+.one {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-top: 1rem;
+}
+.two {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-top: 1rem;
+}
+.three {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 1rem;
+  padding-left: 0;
+}
+
+.four {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 1rem;
+  padding-left: 0;
+}
+
+.links .list-unstyled a {
+  color: black;
+}

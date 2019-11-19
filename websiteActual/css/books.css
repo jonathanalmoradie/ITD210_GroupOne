@@ -1,0 +1,19 @@
+.col-md {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.col{
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+}
+h2 {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+img{
+  padding: 1rem;
+  border-radius: 40px;
+}

@@ -1,0 +1,18 @@
+figure {
+  /* float: left; */
+  max-width: 200px;
+  padding: 0;
+}
+
+img {
+  border-radius: 20px;
+}
+
+figure .col-md-3 {
+  height: 200px;
+}
+
+.container-fluid.custom {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
