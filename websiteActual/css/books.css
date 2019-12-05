@@ -1,19 +1,38 @@
-.col-md {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+body {
+  width: 100%;
 }
-.col{
-  padding-top: 2rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: 2rem;
+
+#cover {
+  width: 100%;
+  height: auto;
 }
+
+#top {
+  width: 100%;
+  height: auto;
+  padding-top: 1rem;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+#bottom {
+  width: 100%;
+  height: auto;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 1rem;
+}
+
 h2 {
   font-weight: bold;
   font-variant: small-caps;
 }
 
-img{
-  padding: 1rem;
-  border-radius: 40px;
+div.info div.test {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }

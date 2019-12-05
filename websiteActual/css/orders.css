@@ -25,3 +25,13 @@ img{
   border: 1px solid white;
   border-radius: 20px;
 }
+
+blockquote.blockquote {
+    display: block;
+    text-align: center;
+    clear: left;
+    float: left;
+    width: 100%;
+    padding-left: 1rem;
+    font-size: 1rem;
+}

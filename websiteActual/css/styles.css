@@ -16,6 +16,69 @@ html {
 footer {
     background-color: #268bd2;
 }
+
+.footer-copyright {
+  color: #f9f9f9;
+}
+
+footer h5 {
+  color: #f9f9f9;
+}
+
 ul.list-unstyled .footLink {
-    color: black;
+    color: #f9f9f9;
+}
+
+ul.list-unstyled .footLink:hover {
+    color: #d3d3d3;
+    text-decoration: none;
+}
+
+ul.list-unstyled.social {
+  list-style: none;
+  display: inline;
+  margin-left: 0;
+  padding: 0;
+}
+
+ul.social li {
+  display: inline;
+  margin: 0 3.5px;
+}
+
+.social li a {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background-color: #268bd2
+}
+
+.fa:hover {
+  color: #d3d3d3;
+  transform: rotate(360deg);
+  transition: all 0.4s;
+}
+
+.fa {
+  transition: all 0.8s;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #cf3326;
+  color: white;
 }
