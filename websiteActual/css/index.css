@@ -1,4 +1,4 @@
-.img-fluid {
+.img-fluid.logo {
     max-width: 100%;
     height: auto;
     padding-left: 0rem;
@@ -6,18 +6,22 @@
     padding-bottom: .5rem;
 }
 
-blockquote.blockquote {
+#tinyOwl {
+  padding: 1rem;
+}
+
+
+.paragraph {
     display: block;
     text-align: center;
     clear: left;
     float: left;
     width: 100%;
-    padding-left: 1rem;
-    font-size: 1rem;
+    padding: 1rem;
 }
 
 .youTube {
-    padding-top: 0rem;
+    padding-top: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
     padding-bottom: 1rem;

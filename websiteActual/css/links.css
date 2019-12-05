@@ -2,18 +2,24 @@
   margin: 0 0;
 }
 
+p {
+  font-size: 12px;
+}
+
 .one {
   padding-left: 0;
   padding-right: 0;
   padding-bottom: 0;
   padding-top: 1rem;
 }
+
 .two {
   padding-left: 0;
   padding-right: 0;
   padding-bottom: 0;
   padding-top: 1rem;
 }
+
 .three {
   padding-left: 0;
   padding-right: 0;
@@ -30,4 +36,8 @@
 
 .links .list-unstyled a {
   color: black;
+}
+.links .list-unstyled a:hover {
+  text-decoration: none;
+  color: #d3d3d3;
 }

@@ -57,3 +57,7 @@ background: black;
 color: #ffffff;
 font-weight:600;
 }
+
+.newsletter .content .btn:hover {
+  color: #d3d3d3;
+}
