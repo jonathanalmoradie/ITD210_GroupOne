@@ -9,7 +9,8 @@ img {
 }
 
 figure.col-md-3 img {
-  height: auto;
+  width: 100%;
+  height: 100%;
 }
 
 .container-fluid.custom {
